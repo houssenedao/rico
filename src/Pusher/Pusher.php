@@ -1,6 +1,6 @@
 <?php
 
-namespace Rico\Pusher;
+namespace Mars\Rico\Pusher;
 
 
 trait Pusher

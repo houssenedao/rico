@@ -1,0 +1,42 @@
+{
+    "name": "marsphp/rico",
+    "description": "PHP Realtime server",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "The Martian Geeks",
+            "email": "infos@themartiangeeks.com"
+        },
+        {
+            "name": "Houssene Dao",
+            "email": "dao.houssene@themartiangeeks.com"
+        },
+        {
+            "name": "Hassane Dao",
+            "email": "dao.hassane@themartiangeeks.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^7.2@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mars\\Rico\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}

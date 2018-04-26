@@ -1,6 +1,6 @@
 <?php
 
-namespace Rico;
+namespace Mars\Rico;
 
 use Rico\Config\Config;
 use Rico\Pusher\Pusher;

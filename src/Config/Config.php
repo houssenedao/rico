@@ -1,6 +1,6 @@
 <?php
 
-namespace Rico\Config;
+namespace Mars\Rico\Config;
 
 
 trait Config
