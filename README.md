@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/houssenedao/rico.svg?branch=master)](https://travis-ci.org/houssenedao/rico)
+
 # Rico
 PHP realtime server
 
